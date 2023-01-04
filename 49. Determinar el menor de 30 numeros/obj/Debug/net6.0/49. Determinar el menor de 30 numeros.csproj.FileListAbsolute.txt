@@ -1,0 +1,15 @@
+C:\Users\master\source\repos\49. Determinar el menor de 30 numeros\49. Determinar el menor de 30 numeros\bin\Debug\net6.0\49. Determinar el menor de 30 numeros.exe
+C:\Users\master\source\repos\49. Determinar el menor de 30 numeros\49. Determinar el menor de 30 numeros\bin\Debug\net6.0\49. Determinar el menor de 30 numeros.deps.json
+C:\Users\master\source\repos\49. Determinar el menor de 30 numeros\49. Determinar el menor de 30 numeros\bin\Debug\net6.0\49. Determinar el menor de 30 numeros.runtimeconfig.json
+C:\Users\master\source\repos\49. Determinar el menor de 30 numeros\49. Determinar el menor de 30 numeros\bin\Debug\net6.0\49. Determinar el menor de 30 numeros.dll
+C:\Users\master\source\repos\49. Determinar el menor de 30 numeros\49. Determinar el menor de 30 numeros\bin\Debug\net6.0\49. Determinar el menor de 30 numeros.pdb
+C:\Users\master\source\repos\49. Determinar el menor de 30 numeros\49. Determinar el menor de 30 numeros\obj\Debug\net6.0\49. Determinar el menor de 30 numeros.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\49. Determinar el menor de 30 numeros\49. Determinar el menor de 30 numeros\obj\Debug\net6.0\49. Determinar el menor de 30 numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\source\repos\49. Determinar el menor de 30 numeros\49. Determinar el menor de 30 numeros\obj\Debug\net6.0\49. Determinar el menor de 30 numeros.AssemblyInfoInputs.cache
+C:\Users\master\source\repos\49. Determinar el menor de 30 numeros\49. Determinar el menor de 30 numeros\obj\Debug\net6.0\49. Determinar el menor de 30 numeros.AssemblyInfo.cs
+C:\Users\master\source\repos\49. Determinar el menor de 30 numeros\49. Determinar el menor de 30 numeros\obj\Debug\net6.0\49. Determinar el menor de 30 numeros.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\49. Determinar el menor de 30 numeros\49. Determinar el menor de 30 numeros\obj\Debug\net6.0\49. Determinar el menor de 30 numeros.dll
+C:\Users\master\source\repos\49. Determinar el menor de 30 numeros\49. Determinar el menor de 30 numeros\obj\Debug\net6.0\refint\49. Determinar el menor de 30 numeros.dll
+C:\Users\master\source\repos\49. Determinar el menor de 30 numeros\49. Determinar el menor de 30 numeros\obj\Debug\net6.0\49. Determinar el menor de 30 numeros.pdb
+C:\Users\master\source\repos\49. Determinar el menor de 30 numeros\49. Determinar el menor de 30 numeros\obj\Debug\net6.0\49. Determinar el menor de 30 numeros.genruntimeconfig.cache
+C:\Users\master\source\repos\49. Determinar el menor de 30 numeros\49. Determinar el menor de 30 numeros\obj\Debug\net6.0\ref\49. Determinar el menor de 30 numeros.dll

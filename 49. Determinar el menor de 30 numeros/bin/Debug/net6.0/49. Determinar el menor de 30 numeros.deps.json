@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "49. Determinar el menor de 30 numeros/1.0.0": {
+        "runtime": {
+          "49. Determinar el menor de 30 numeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "49. Determinar el menor de 30 numeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

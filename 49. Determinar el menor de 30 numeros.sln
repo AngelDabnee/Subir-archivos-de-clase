@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49. Determinar el menor de 30 numeros", "49. Determinar el menor de 30 numeros\49. Determinar el menor de 30 numeros.csproj", "{72142FF0-47F1-48AB-8A7C-713E1EAC104B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72142FF0-47F1-48AB-8A7C-713E1EAC104B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72142FF0-47F1-48AB-8A7C-713E1EAC104B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72142FF0-47F1-48AB-8A7C-713E1EAC104B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72142FF0-47F1-48AB-8A7C-713E1EAC104B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B545F618-044C-4B62-82D1-D43290A7E80F}
+	EndGlobalSection
+EndGlobal
